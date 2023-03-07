@@ -1,2 +1,5 @@
 cp24,http://z3.ubtvfans.com/live/rx3/1247/b49a71085f4bfe3b2e87ec4a47a1af8e/index.m3u8
 hk cable,http://z1.ubtvfans.com/live/rx1/395/f91aa5e89a6096ddde575bb626348792/index.m3u8
+有線新聞台,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
+HOY TV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
