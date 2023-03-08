@@ -3,13 +3,12 @@ hk cable,http://z1.ubtvfans.com/live/rx1/395/f91aa5e89a6096ddde575bb626348792/in
 有線新聞台,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 翡翠台,https://live.astradamy.com/tvbfc/index.m3u8
 HOY TV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
-lutos,http://z1.ubtvfans.com/live/rx1/70/fffc70802e8795276173902924a549ec/index.m3u8
-1,http://z1.ubtvfans.com/live/rx1/26/43f2c4402e708845186571462136e824/index.m3u8
-2,http://z3.ubtvfans.com/live/rx3/1286/bcd759e4acc8db3e558a347488679815/index.m3u8
-3,http://z3.ubtvfans.com/live/rx3/1287/5f8f0a3f063107bba93cfae27320149d/index.m3u8
-4,http://z3.ubtvfans.com/live/rx3/1288/b11b1aaff0c297f6a46d413a2f4249b9/index.m3u8
-5,http://z3.ubtvfans.com/live/rx3/1083/dcfc63f79a882d3b20db006a812dbda3/index.m3u8
-6,http://z3.ubtvfans.com/live/rx3/1246/1d2b1a2170118c1f07ec7e31cc772e41/index.m3u8
-7,http://z1.ubtvfans.com/live/rx1/354/2f21b183b2e001b2d5a08a214ad93d28/index.m3u8
+澳门莲花,http://z1.ubtvfans.com/live/rx1/70/fffc70802e8795276173902924a549ec/index.m3u8
+新时代电视e,http://z3.ubtvfans.com/live/rx3/1286/bcd759e4acc8db3e558a347488679815/index.m3u8
+新时代电视w,http://z3.ubtvfans.com/live/rx3/1287/5f8f0a3f063107bba93cfae27320149d/index.m3u8
+新时代电视2,http://z3.ubtvfans.com/live/rx3/1288/b11b1aaff0c297f6a46d413a2f4249b9/index.m3u8
+tvb classic,http://z3.ubtvfans.com/live/rx3/1083/dcfc63f79a882d3b20db006a812dbda3/index.m3u8
+nowtv news,http://z3.ubtvfans.com/live/rx3/1246/1d2b1a2170118c1f07ec7e31cc772e41/index.m3u8
+hk movie,http://z1.ubtvfans.com/live/rx1/354/2f21b183b2e001b2d5a08a214ad93d28/index.m3u8
 8,http://z3.ubtvfans.com/live/rx3/441/c04923df6e3418407d8db43a5ebde00a/index.m3u8
-9,http://z1.ubtvfans.com/live/rx1/219/62eed6c90f03fad5aec9828d28705b51/index.m3u8
+south tv,http://z1.ubtvfans.com/live/rx1/219/62eed6c90f03fad5aec9828d28705b51/index.m3u8
