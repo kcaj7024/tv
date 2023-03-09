@@ -10,5 +10,5 @@ HOY TV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
 tvb classic,http://z3.ubtvfans.com/live/rx3/1083/dcfc63f79a882d3b20db006a812dbda3/index.m3u8
 nowtv news,http://z3.ubtvfans.com/live/rx3/1246/1d2b1a2170118c1f07ec7e31cc772e41/index.m3u8
 hk movie,http://z1.ubtvfans.com/live/rx1/354/2f21b183b2e001b2d5a08a214ad93d28/index.m3u8
-8,http://z3.ubtvfans.com/live/rx3/441/c04923df6e3418407d8db43a5ebde00a/index.m3u8
+8,https://news.now.com/live
 south tv,http://z1.ubtvfans.com/live/rx1/219/62eed6c90f03fad5aec9828d28705b51/index.m3u8
